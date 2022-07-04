@@ -1,0 +1,26 @@
+body {
+  background-color: #371B58;
+  color: white;
+}
+
+.navbar {
+  background-color: #4C3575;
+  color: #7858A6;
+}
+
+.card {
+  background-color: #4C3575;
+}
+
+.addNewStudents {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+
+
+/*# sourceMappingURL=Style.css.map */

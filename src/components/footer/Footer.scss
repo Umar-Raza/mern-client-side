@@ -1,0 +1,37 @@
+@import "../../style/variables.scss";
+
+
+
+.fContainer {
+    background-color: $secondry;
+    // width: 100%;
+    min-height: 60px;
+}
+
+
+// h5 {
+//     
+//     text-align: center;
+// }
+
+.footer-copyright {
+    // margin-left: 5px;
+    line-height: 60px;
+    
+
+    a {
+        list-style-type: none;
+        text-decoration: none;
+        font-weight: bolder;
+        // color: white;
+    }
+
+    a:hover {
+        text-decoration: underline;
+        color: black !important;
+        // letter-spacing: 1px;
+    }
+    // .foter{
+    //     font-weight: bolder;
+    // }
+}
